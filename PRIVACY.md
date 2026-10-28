@@ -82,8 +82,10 @@ externos pueden aplicar sus propios plazos de conservación.
 
 ## Eliminación de cuenta y datos
 
-Puedes solicitar la eliminación desde la aplicación, en **Configuraciones >
-Eliminar cuenta**, o escribiendo a [contacto@cear54.com](mailto:contacto@cear54.com).
+Puedes eliminar la cuenta desde la aplicación, en **Configuraciones >
+Eliminar cuenta**. Consulta los [pasos para eliminar tu cuenta](https://cear54.github.io/mascositter-privacy/eliminar-cuenta/).
+Si no puedes acceder a la aplicación, escribe a
+[contacto@cear54.com](mailto:contacto@cear54.com).
 La eliminación de cuenta borra la cuenta y los datos asociados almacenados en los
 servidores de MascoSitter, incluidas las fotos de perfil de mascotas y los datos
 de suscripción asociados, salvo la información que deba conservarse por obligación
